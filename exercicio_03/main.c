@@ -56,16 +56,6 @@ int main() {
   printf("\n3º Pilha: \n");
   imprimePilha(s3);
 
-        /*
-            Estou imprimindo as duas primeiras pilhas para verificar que de fato os valores delas
-            foram atribuidos a 3º pilha e elas estão vazias
-
-printf("\n1º Pilha");
-        imprimePilha(s1);
-        printf("\n2º Pilha");
-        imprimePilha(s2);
-        */
-        
     
   return 0;
 }

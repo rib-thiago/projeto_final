@@ -54,19 +54,7 @@ int main() {
   }
   printf("\n3º Fila: \n");
   imprimeFila(q3);
-  
-
-        /*
-            Estou imprimindo as duas primeiras filas para verificar que de fato os valores delas
-            foram atribuidos a 3º fila e elas estão vazias
-
-  printf("\n1º Fila");
-        imprimirFila(f1);
-        printf("\n2º Fila");
-        imprimirFila(f2);
-        */
       
-    
     return 0;
 }
 
